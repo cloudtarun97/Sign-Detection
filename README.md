@@ -8,3 +8,42 @@ The project uses a model that has been trained on a dataset of sign language ges
 OpenCV &
 Tensorflow
 
+
+'''
+pip install virtualenv  
+virtualenv my_env      
+my_env\Scripts\activate
+
+'''
+
+
+'''
+pip install opencv-python
+'''
+
+
+
+'''
+pip install cvzone
+
+'''
+
+
+
+'''
+pip install mediapipe
+'''
+
+
+
+'''
+pip install tensorflow
+'''
+
+
+
+'''
+pip install python-time
+'''
+
+
