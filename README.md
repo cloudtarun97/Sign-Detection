@@ -2,6 +2,8 @@
 
 This is a python project capable of recognizing and converting Indian Sign Language into words in real-time. 
 
+This python project is completey used in extra_large systems such as Supercomputers.
+
 ## Models used
 OpenCV &
 Tensorflow
