@@ -9,41 +9,40 @@ OpenCV &
 Tensorflow
 
 
-'''
+```bash
 pip install virtualenv  
 virtualenv my_env      
 my_env\Scripts\activate
 
-'''
+```
 
 
-'''
+```bash
 pip install opencv-python
-'''
+```
 
 
 
-'''
+```bash
 pip install cvzone
 
-'''
+```
 
 
-
-'''
+```bash
 pip install mediapipe
-'''
+```
 
 
 
-'''
+```bash
 pip install tensorflow
-'''
+```
 
 
 
 '''
 pip install python-time
-'''
+```
 
 
